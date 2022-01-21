@@ -6,7 +6,7 @@
 
 修正版本数据集已经用作测评文字识别模型的benchmark数据集之一。第一个使用修正版本数据集的论文CATNet: Scene Text Recognition Guided by Concatenating Augmented Text Features已经被ICDAR2021接收。
 
-你可以在[这里](https://drive.google.com/file/d/1md_6J4qihcT70I_tPA19PI6br9oZDiLS/view?usp=sharing)下载我们的数据集
+你可以在[这里](https://drive.google.com/file/d/1md_6J4qihcT70I_tPA19PI6br9oZDiLS/view?usp=sharing)下载本数据集
 
 # 标注文件
 
